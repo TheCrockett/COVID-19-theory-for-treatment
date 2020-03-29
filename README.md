@@ -1,10 +1,10 @@
 # COVID-19-theory-for-treatment
 
-Disclaimer: I am not a Medical Doctor, Nurse or otherwise involved in providing healthcare to patients. 
+*Disclaimer*: I am not a Medical Doctor, Nurse or otherwise involved in providing healthcare to patients. 
 
-Audience: Medical Doctors, Nurses and Health Educators
+*Audience*: Medical Doctors, Nurses and Health Educators
 
-Intent: To artciulate a potential solution to the COVID-19 crisis around the globe, and applying a vast engineering background to a current problem. 
+*Intent*: To artciulate a potential solution to the COVID-19 crisis around the globe, and applying a vast engineering background to a current problem. 
 
 DO NOT UNDER ANY CIRcUMSTANCES TRY THIS AT HOME. THIS IS INTEDED TO OFFER AN OUT-OF-THE-BOX PROPOSAL TO THE MEDICAL COMMUNITY FROM THE ENGINEERING COMMUNITY THE ONLY WAY I KNOW HOW. 
 
