@@ -10,7 +10,7 @@
 
 **Overview**
 
-Perodic application of food-grade ethanol via nebulizer potentially resulting in destrucition of virus particles thus weakening the potentially lethal immunie system overreaction 
+Perodic application of food-grade ethanol via nebulizer potentially assisting in destrucition of virus particles and subsiquently decreasing infection thus weakening the potentially lethal immunie system overreaction thus elevating recovery possiblity
 
 **Theory**
 
