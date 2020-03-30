@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/Alcohol_inhalation#Medical_applications
 ###
 
 
-###Known Dangers
+### Known Dangers
 * Alcohol's known interactions with a wide array of medications
 * Human body is unable to reject overdose of Ethanol VIA inhalation as it can with standard ingestion
 * Application of Ethanol is likely to create additional inflammation in lung tissue. Caution should be used in patients at ventalator stage, as any temporary degredation of lung function could accellerate onset of negative outcomes including death in an already fatal situation. Care should be excersized that lung function is too far degraded to be treated in this manner, and in these cases impending death would be accellerated.
