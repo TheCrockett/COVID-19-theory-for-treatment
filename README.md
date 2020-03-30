@@ -20,7 +20,10 @@ Perodic application of food-grade ethanol via nebulizer potentially assisting in
 * Ethanol Inhalation has been used in  the medical community historically in treatment of  pulmonary edema, as well as mitigating withdrawl in alcoholic patients in gastrointestinal surgeries.
 https://en.wikipedia.org/wiki/Alcohol_inhalation#Medical_applications
 
-* (TO BE RESEARCHED) Ethanol as an effective agent in destroying virus particles
+* Ethanol as an effective agent in destroying COVID-19 virus particles
+https://www.sciencedirect.com/science/article/pii/S0195670117304693
+
+More study required against this particular strain, however per the research; beginning at 42.6% (w/w) ethanol is effective within 30 s against SARS coronavirus, MERS coronavirus, ebolavirus, influenza A virus* 
 
 ###
 
