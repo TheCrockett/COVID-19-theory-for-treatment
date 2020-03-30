@@ -2,7 +2,7 @@
 
 * *Disclaimer*: I am not a Medical Doctor, Nurse or otherwise involved in providing healthcare to patients. 
 
-* *Audience*: Medical Doctors, Nurses and Health Educators
+* *Audience*: Medical Doctors, Nurses, Medical Research Scientists and Health Educators, 
 
 * *Intent*: To artciulate a potential solution to the COVID-19 crisis around the globe, and applying a vast engineering background to a current problem. 
 
@@ -34,3 +34,6 @@ License:
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
+This theory is provided to mankind, in the spirit of love and with aboslutely no strings attached. 
