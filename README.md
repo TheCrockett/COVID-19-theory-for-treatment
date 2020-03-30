@@ -25,7 +25,14 @@ https://www.sciencedirect.com/science/article/pii/S0195670117304693
 
 More study required against this particular strain, however per the research; beginning at 42.6% (w/w) ethanol is effective within 30 s against SARS coronavirus, MERS coronavirus, ebolavirus, influenza A virus* 
 
-###
+### Principle
+
+Application of Ethanol small quantities at perodic intervals, up to 3x daily should result in a staged disenfection of lung tissue. 
+
+**Specific doesage should be as minimal as possible, suggesting an order of magnitude less than what an alcoholic pateient would be given with GI surgery** (TODO: Research into doseage)
+
+If possible, a larger initial dose should be applied to maximize damage to existing virus and prevent patent from deteriorating further. 
+
 
 
 ### Known Dangers
