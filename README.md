@@ -9,8 +9,10 @@
 * *Contributions*: Contributions, will absolutely be accepted VIA pull requests (including shooting down my theory), and I will try and capture as much discussion/facts outside of this as I can (for those not familar with github). Please create an issue for discussion and I will attempt to keep them in sync. 
 
 **Overview**
+Perodic application of food-grade ethanol via nebulizer potentially resulting in destrucition of virus particles thus weakening the potentially lethal immunie system overreaction 
 
 **Theory**
+
 
 **Known Dangers**
 * Alcohol's known interactions with a wide array of medications
