@@ -8,13 +8,13 @@
 
 * *Contributions*: Contributions, will absolutely be accepted VIA pull requests (including shooting down my theory), and I will try and capture as much discussion/facts outside of this as I can (for those not familar with github). Please create an issue for discussion and I will attempt to keep them in sync. 
 
-**Overview**
+## Overview
 
 Perodic application of food-grade ethanol via nebulizer potentially assisting in destrucition of virus particles and subsiquently decreasing infection thus weakening the potentially lethal immunie system overreaction thus elevating recovery possiblity
 
-**Theory**
+## Theory
 
-***Baseline Assumptions***
+### ***Baseline Assumptions***
 * Ethanol(Alcohol) has been successfully inhaled recreationally creating similar non-lethal consequences, however resulting in expected/desired intoxication. 
 
 * Ethanol Inhalation has been used in  the medical community historically in treatment of  pulmonary edema, as well as mitigating withdrawl in alcoholic patients in gastrointestinal surgeries.
