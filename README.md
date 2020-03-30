@@ -14,6 +14,12 @@ Perodic application of food-grade ethanol via nebulizer potentially assisting in
 
 **Theory**
 
+***Baseline Assumptions***
+* Ethanol(Alcohol) has been successfully inhaled recreationally creating similar non-lethal consequences, however resulting in expected/desired intoxication. 
+
+* Ethanol Inhalation has been used in  the medical community historically in treatment of  pulmonary edema, as well as mitigating withdrawl in alcoholic patients in gastrointestinal surgeries.
+https://en.wikipedia.org/wiki/Alcohol_inhalation#Medical_applications
+
 
 **Known Dangers**
 * Alcohol's known interactions with a wide array of medications
