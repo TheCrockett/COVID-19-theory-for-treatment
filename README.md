@@ -20,12 +20,23 @@ Perodic application of food-grade ethanol via nebulizer potentially assisting in
 * Ethanol Inhalation has been used in  the medical community historically in treatment of  pulmonary edema, as well as mitigating withdrawl in alcoholic patients in gastrointestinal surgeries.
 https://en.wikipedia.org/wiki/Alcohol_inhalation#Medical_applications
 
+* (TO BE RESEARCHED) Ethanol as an effective agent in destroying virus particles
 
-**Known Dangers**
+###
+
+
+###Known Dangers
 * Alcohol's known interactions with a wide array of medications
+* Human body is unable to reject overdose of Ethanol VIA inhalation as it can with standard ingestion
+* Application of Ethanol is likely to create additional inflammation in lung tissue. Caution should be used in patients at ventalator stage, as any temporary degredation of lung function could accellerate onset of negative outcomes including death in an already fatal situation. Care should be excersized that lung function is too far degraded to be treated in this manner, and in these cases impending death would be accellerated.
+
+
+
 
 **WARNING:**
 DO NOT UNDER ANY CIRCUMSTANCES TRY THIS AT HOME. THIS IS INTEDED TO OFFER AN OUT-OF-THE-BOX PROPOSAL TO THE MEDICAL COMMUNITY FROM THE ENGINEERING COMMUNITY THE ONLY WAY I KNOW HOW, AND IS INTENDED IN GOOD FAITH AND BETTERMENT OF HUMANKIND DURING THE CURRENT WORLDWIDE CRISIS. 
+
+
 
 License:
 
