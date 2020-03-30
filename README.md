@@ -15,7 +15,7 @@ Periodic application of food-grade ethanol via nebulizer potentially assisting i
 ## Theory
 
 ### ***Baseline Assumptions***
-* Ethanol(Alcohol) has been successfully inhaled in a recreational nabbercreating similar non-lethal consequences, however resulting in expected/desired intoxication. 
+* Ethanol(Alcohol) has been successfully inhaled in a recreational manner, creating similar non-lethal consequences, however resulting in expected/desired intoxication. 
 
 * Ethanol Inhalation has been used in  the medical community historically in treatment of  pulmonary edema, as well as mitigating withdrawl in alcoholic patients in gastrointestinal surgeries.
 https://en.wikipedia.org/wiki/Alcohol_inhalation#Medical_applications
