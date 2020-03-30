@@ -8,6 +8,12 @@
 
 * *Contributions*: Contributions, will absolutely be accepted VIA pull requests (including shooting down my theory), and I will try and capture as much discussion/facts outside of this as I can (for those not familar with github). Please create an issue for discussion and I will attempt to keep them in sync. 
 
+**Overview**
+
+**Theory**
+
+**Known Dangers**
+* Alcohol's known interactions with a wide array of medications
 
 **WARNING:**
 DO NOT UNDER ANY CIRCUMSTANCES TRY THIS AT HOME. THIS IS INTEDED TO OFFER AN OUT-OF-THE-BOX PROPOSAL TO THE MEDICAL COMMUNITY FROM THE ENGINEERING COMMUNITY THE ONLY WAY I KNOW HOW, AND IS INTENDED IN GOOD FAITH AND BETTERMENT OF HUMANKIND DURING THE CURRENT WORLDWIDE CRISIS. 
